@@ -4,3 +4,9 @@ Remote Method Invocation(RMI) is a mechanism that allows an object residing in o
 - Implementing remote interface.
 - create and start remote application
 - create and start client application
+
+Commands:
+javac *.java
+start rmiregistry
+java MyServer
+java MyClient
